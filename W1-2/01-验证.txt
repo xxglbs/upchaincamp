@@ -1,0 +1,4 @@
+npx hardhat verify 0x8FdB9703afff36335b1e8665b937279F674b44ba "0" --network mumbai
+
+
+https://mumbai.polygonscan.com/address/0x8FdB9703afff36335b1e8665b937279F674b44ba#code
