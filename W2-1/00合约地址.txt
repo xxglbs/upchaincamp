@@ -1,0 +1,9 @@
+
+合约地址
+https://goerli.etherscan.io/address/0xf7FEDcc54bF3Bb81da9d2Fa114F18954Bc8a850F
+
+MetaMask转账hash
+https://goerli.etherscan.io/tx/0x937dff6ce8f99914ae65dbdea98416c543aed8bcf531d1192e28998d4ea8aa47
+
+提现hash
+https://goerli.etherscan.io/tx/0x01c1325e9d0d0c6e9bce05f100885e2defd3a9acf05a8ea22e40b1c19392fbcc
