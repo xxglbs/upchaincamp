@@ -24,4 +24,18 @@ https://goerli.etherscan.io/address/0xE0a2C8eF0196Af8ADdaf189c71D8B9b237B02Fe2#c
 
 
 
+---
+代币合约地址
+
+https://goerli.etherscan.io/address/0x53B8BAbf32Fd1DA64b2437955514Cec983a70EE2#code
+
+NFT合约地址
+
+https://goerli.etherscan.io/address/0xe0a2c8ef0196af8addaf189c71d8b9b237b02fe2#code
+
+NFTMarket
+https://goerli.etherscan.io/address/0xD00bf02A3b22ad7842b177DC8e4De62DD52E5b76#code
+
+-- 验证nft market合约
+npx hardhat verify 0xD00bf02A3b22ad7842b177DC8e4De62DD52E5b76 --network goerlitest  "0x53B8BAbf32Fd1DA64b2437955514Cec983a70EE2" "0xE0a2C8eF0196Af8ADdaf189c71D8B9b237B02Fe2"
 
