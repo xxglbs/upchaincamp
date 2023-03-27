@@ -13,3 +13,15 @@ https://goerli.etherscan.io/tx/0x27229b0255d5549fc58c625e71baae22b00bef5e43426c6
 
 Withdraw：
 https://goerli.etherscan.io/tx/0x5d5f0ff00fa6d96d4c491bc6476b2ed6ea346467b51242fdcc5f97827cbf3f78
+
+
+铸造一个NFT在测试网上发行
+NFT
+https://goerli.etherscan.io/tx/0xa585bd1b951d1b4d6375c3da6fdfba7f358aa123d7a0c563ee667233003ca67f
+
+NFT合约地址
+https://goerli.etherscan.io/address/0xE0a2C8eF0196Af8ADdaf189c71D8B9b237B02Fe2#code
+
+
+
+
