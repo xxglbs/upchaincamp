@@ -39,3 +39,12 @@ https://goerli.etherscan.io/address/0xD00bf02A3b22ad7842b177DC8e4De62DD52E5b76#c
 -- 验证nft market合约
 npx hardhat verify 0xD00bf02A3b22ad7842b177DC8e4De62DD52E5b76 --network goerlitest  "0x53B8BAbf32Fd1DA64b2437955514Cec983a70EE2" "0xE0a2C8eF0196Af8ADdaf189c71D8B9b237B02Fe2"
 
+* ERC20 代币授权合约交易hash
+https://goerli.etherscan.io/tx/0xa02c047717e73c593f36a104d6aa6f825dba3e96af25164657e076b4bda1dd5f
+
+* MyNFT NFT授权交易hash
+https://goerli.etherscan.io/tx/0x16a4dea327ef36277dbd1fd7dded0baa950c4274b45cb68ce58fda1f6dc4821b
+
+* NFTMarket 
+上架交易hash
+https://goerli.etherscan.io/tx/0x7555e74a3b77b1356535a89641dcbd4cf19e08e72b588b8c8c692998e2e7d7d8
